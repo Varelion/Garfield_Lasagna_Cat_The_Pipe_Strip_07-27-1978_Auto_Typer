@@ -1,5 +1,5 @@
 # Garfield_Lasagna_Cat_The_Pipe_Strip_07-27-1968_Auto_Typer
-This uses a python script to automatically type **THE ENTIRE SCRIPT FOR LASAGNA CAT'S MASTERPIECE: 07/27/1968 **.
+This uses a python script to automatically type **THE ENTIRE SCRIPT FOR LASAGNA CAT'S MASTERPIECE: 07/27/1968**.
 
 Seriously, the whole thing.
 
