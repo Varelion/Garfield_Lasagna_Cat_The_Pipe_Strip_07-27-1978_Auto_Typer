@@ -2,4 +2,4 @@
 This uses a python script to automatically type **THE ENTIRE SCRIPT FOR LASAGNA CAT'S MASTERPIECE: 07/27/1968 **.
 Seriously, the whole fucking thing.
 It simulates typing, so that services that read 'now typing...' will make others thing you're actually unhinged, and are typing the entire fucking thing.
-Initiate with python3 auto_typing_garfield.py
+Initiate with `python3 auto_typing_garfield.py`
